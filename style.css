@@ -1,0 +1,25 @@
+body {
+  background: lightblue;
+  font-family: "Arial";
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+.melanie {
+  font-size: 30px;
+  color: blue;
+}
+
+.products > h2 {
+  color: green;
+}
+
+.splashscreen {
+  text-align: center;
+  background-image: url(http://www.gluedtomycraftsblog.com/wp-content/uploads/2016/02/ballerina-kid-craft-2.jpg);
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
